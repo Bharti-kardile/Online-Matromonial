@@ -32,8 +32,7 @@
     		</div>
     		<div class="clearfix"> </div>
     		<div class="copy">
-		      <p>Copyright © 2017 Marital . All Rights Reserved  | Design by <a href="http://projectworlds.in">projectworlds</a>
-</a> </p>
+		      <p>Copyright © 2023 Marital . All Rights Reserved   </p>
 	        </div>
     	</div>
 </div>
